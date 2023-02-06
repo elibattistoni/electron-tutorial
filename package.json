@@ -1,0 +1,15 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "Development of a simple desktop application with Electron and React JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elisa Battistoni",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.3"
+  }
+}
